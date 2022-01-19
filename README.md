@@ -198,7 +198,7 @@ Diğer Stil Kılavuzları
 
 <a name="es6-object-shorthand"></a><a name="3.5"></a>
 
-- [3.3](#es6-object-shorthand) Nesne içerisinde bir metod (fonksiyon) oluştururken, kısa metod tekniğini kullanın.
+- [3.3](#es6-object-shorthand) Nesne içerisinde bir metod (fonksiyon) oluştururken, kısa metod tekniğini kullanın. eslint: [`object-shorthand`](https://eslint.org/docs/rules/object-shorthand.html)
 
   ```javascript
   // kötü
